@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherQuiz</string>
+    <string name="live_weather_quiz">Weather Quiz</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="where_is_this_weather">Where is this Weather?</string>
+    <string name="home">Home</string>
+</resources>
